@@ -1,4 +1,4 @@
-This repository contains my learning and implementation of digital sequential circuits using Verilog. The focus of this project is to build a strong foundation in digital design concepts by implementing basic sequential building blocks.
+This repository contains my learning and implementation of digital combinational circuits using Verilog. The focus of this project is to build a strong foundation in digital design concepts by implementing basic sequential building blocks.
 
 🔹 Multiplexer (MUX)
 
