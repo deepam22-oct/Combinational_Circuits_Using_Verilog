@@ -1,1 +1,1 @@
-# Mux-and-De-mux-using-verilog
+Sequential Curcits Using Verilog
